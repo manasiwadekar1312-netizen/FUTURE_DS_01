@@ -3,6 +3,14 @@ Data Science & Analytics – Task 1 (Future Interns)
 ## Project Overview
 This project focuses on analyzing business sales data to understand overall performance, identify key revenue drivers, and support data-driven business decisions.
 Using real-world sales data, the analysis highlights trends, top-performing products, and category-level insights through visual dashboards.
+
+## Tools & Technologies Used
+Microsoft Excel – Data cleaning, pivot tables, charts, and dashboard creation
+Pivot Tables – Aggregating and summarizing sales data
+Excel Charts – Visualizing trends, category performance, and top products
+GitHub – Version control and project documentation
+CSV Dataset – Structured data storage and analysis
+
 ## Dataset
 Source: Superstore Sales Dataset
 Format: CSV
@@ -18,6 +26,7 @@ The raw dataset is stored in the Data folder.
 Microsoft Excel
 Pivot Tables
 Charts & Data Visualization
+
 ## Dashboard & Chart Explanations
 ## Monthly Sales Trend (2014–2017)
 Purpose:
@@ -26,6 +35,7 @@ Insight:
 Sales display a general upward trend, indicating business growth over the years.
 Seasonal fluctuations are visible, suggesting higher sales during certain months.
 This helps businesses plan inventory, marketing, and promotions more effectively.
+
 ## Sales Performance by Category
 Purpose:
 This chart compares total sales across different product categories.
@@ -40,10 +50,12 @@ Insight:
 A small number of products generate a large portion of total revenue.
 These products are key business drivers and should be prioritized for availability and promotion.
 Helps in identifying best-sellers and understanding customer preferences.
+
 ## Key Business Insights
 Sales are increasing over time, showing positive business growth.
 Category-level analysis helps identify strong and weak segments.
 Top products play a major role in revenue generation.
+
 ## Project Structure
 Copy code
 
