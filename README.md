@@ -61,6 +61,6 @@ FUTURE_DS_01
 │   └── top 10 products.png
 │
 └── README.md
-✅ Conclusion
+## Conclusion
 This analysis demonstrates how sales data can be transformed into meaningful insights using simple analytical tools.
 The dashboard and visualizations provide a clear understanding of business performance and support informed decision-making.
